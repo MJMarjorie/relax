@@ -21,3 +21,4 @@ def kNN_classify(k, X_train, y_train, x):
 
 
     #摩羯基金：    2020-02-28
+    # Marjorie两笔:  28294.61    32367.82
